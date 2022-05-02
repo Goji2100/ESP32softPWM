@@ -1,0 +1,5 @@
+ESP32softPWM    KEYWORD1    ESP32softPWM
+attach   		KEYWORD2
+set             KEYWORD2
+getcnt  		KEYWORD2
+update  		KEYWORD2
